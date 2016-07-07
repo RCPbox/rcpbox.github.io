@@ -1852,7 +1852,7 @@
 	}
 
 	form ::-moz-focus-inner {
-		border: 0;
+		/* border: 0; */
 	}
 
 /* Table */
